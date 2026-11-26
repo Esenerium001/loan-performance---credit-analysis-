@@ -114,6 +114,12 @@ Interactive slicers were incorporated to allow users to filter the dashboard by 
 
 The dashboard provides an interactive way to explore loan performance and identify patterns across different applicant categories.
 
+## Project Dashboard
+
+The interactive Power BI dashboard provides a visual overview of loan applications, approval rates, interest rates, credit scores, and applicant characteristics.
+
+![Loan Performance Dashboard](LOAN-DASHBOARD.png)
+
 ## Key Findings
 
 The analysis of 45,000 loan applications revealed several important insights about loan performance, approval patterns, and credit risk.
