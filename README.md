@@ -114,3 +114,50 @@ Interactive slicers were incorporated to allow users to filter the dashboard by 
 
 The dashboard provides an interactive way to explore loan performance and identify patterns across different applicant categories.
 
+## Key Findings
+
+The analysis of 45,000 loan applications revealed several important insights about loan performance, approval patterns, and credit risk.
+
+- **Loan Approval Rate:** The overall loan approval rate was 22.22%, indicating that a relatively small proportion of submitted applications received approval.
+
+- **Loan Approval by Intent:** Debt Consolidation recorded the highest approval rate at 30.27%, followed by Medical at 27.82% and Home Improvement at 26.30%. Venture recorded the lowest approval rate at 14.43%.
+
+- **Credit Score Analysis:** Approval rates across credit score bands were relatively close. Fair recorded 22.48%, Very Good 22.34%, Poor 22.30%, and Good 21.55%.
+
+- **Home Ownership:** Renters accounted for the largest share of applications, representing approximately 52.1%, followed by mortgage applicants at 41.09%.
+
+- **Loan Amount by Income Band:** The Middle-income category recorded the highest loan amount at approximately 0.21 billion, followed by Upper-Middle at 0.09 billion and Lower-Middle at 0.08 billion.
+
+- **Average Interest Rate:** The overall average interest rate was 11.01%.
+
+- **Average Credit Score:** The average credit score across the applications was 632.61.
+
+- **Credit Score and Interest Rate:** The scatter plot revealed the distribution of interest rates across different credit scores, without showing an obvious strong linear relationship.
+
+## Recommendations
+
+Based on the findings from the analysis, the following recommendations are proposed:
+
+- **Improve Loan Approval Processes:** Financial institutions should review their approval criteria to identify factors contributing to the relatively low approval rate.
+
+- **Strengthen Credit Risk Assessment:** Lenders should consider multiple factors, including income, credit history, existing debt obligations, and loan purpose, rather than relying on credit scores alone.
+
+- **Review Loan Interest Rates:** Financial institutions should ensure that interest rates reflect borrowers' risk profiles while remaining competitive and affordable.
+
+- **Develop Income-Based Loan Strategies:** Loan products should be structured to accommodate different income categories and repayment capacities.
+
+- **Monitor Loan Performance:** Continuous monitoring of approved loans can help identify potential repayment challenges and reduce default risks.
+
+- **Use Data-Driven Decision Making:** Financial institutions should leverage data analytics and interactive dashboards to monitor loan performance, identify trends, and support informed lending decisions.
+
+
+## Conclusion
+
+This project demonstrated how data analytics can be applied to loan application data to uncover lending patterns, evaluate approval trends, and examine potential credit risk indicators.
+
+Through the use of Microsoft Excel, SQL, and Power BI, I successfully carried out data cleaning, exploratory analysis, advanced querying, and interactive dashboard development.
+
+The analysis provided insights into loan approval rates, interest rate patterns, credit scores, applicant income categories, and home ownership distributions.
+
+Overall, this project strengthened my practical skills in data analytics and demonstrated the importance of transforming raw data into meaningful insights that can support informed business decisions.
+
