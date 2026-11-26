@@ -90,6 +90,8 @@ The analysis focused on:
 
 SQL queries were used to aggregate, segment, and analyse the data to identify patterns and support further visualisation in Power BI.
 
+The SQL queries used for this analysis are available here: [View SQL Analysis](loan_analysis.sql).
+
 ## Power BI Dashboard Development
 
 Microsoft Power BI was used to develop an interactive dashboard that presents key metrics and visual insights from the loan application dataset.
