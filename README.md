@@ -118,7 +118,7 @@ The dashboard provides an interactive way to explore loan performance and identi
 
 The interactive Power BI dashboard provides a visual overview of loan applications, approval rates, interest rates, credit scores, and applicant characteristics.
 
-![Loan Performance Dashboard](LOAN%20DASHBOARD)
+![Loan Performance Dashboard](LOAN%20DASHBOARD.png)
 
 ## Key Findings
 
